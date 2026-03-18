@@ -1,3 +1,2 @@
 # etsime
-Code for ETSIME bachelors and masters
-Universidad Politécnica de Madrid
+Code for ETSIME UPM bachelors and masters
